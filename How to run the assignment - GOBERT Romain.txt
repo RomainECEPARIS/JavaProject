@@ -1,0 +1,32 @@
+How to run the assignment !!
+
+
+
+1/ Eclipse
+
+
+run ee402.Graph
+
+
+
+2/ Putty
+
+GitHub: https://github.com/RomainECEPARIS/JavaProject
+
+Recup the link of the repository on my GitHUb 
+
+Open Putty: IP adress=raspberrypi.local
+
+cd JavaProject
+cd AssignmentFinal
+cd bin
+java ee402.ThreadedServer
+
+
+
+
+3/ Command Prompt
+
+
+cd (until directory of the bin) 
+java ee402.Client raspberrypi.local  
